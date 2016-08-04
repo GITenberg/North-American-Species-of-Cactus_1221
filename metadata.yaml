@@ -1,0 +1,29 @@
+_repo: North-American-Species-of-Cactus_1221
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coulter, John Merle
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '558'
+    url: http://www.gutenberg.org/2009/agents/558
+description: ''
+gutenberg_bookshelf: Botany
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cactus'
+- !lcsh 'Peyote'
+- !lcsh 'Plants -- North America'
+- !lcc 'QK'
+- !lcsh 'Ariocarpus'
+- GITenberg
+title: A Preliminary Revision of the North American Species of Cactus, Anhalonium,
+  and Lophophora
+url: http://www.gutenberg.org/ebooks/1221
